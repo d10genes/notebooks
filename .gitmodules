@@ -1,0 +1,12 @@
+[submodule "subs/nyt-nlp"]
+	path = subs/nyt-nlp
+	url = https://github.com/d10genes/nyt-nlp.git
+[submodule "subs/traffic-atl"]
+	path = subs/traffic-atl
+	url = https://github.com/d10genes/traffic-atl.git
+[submodule "subs/crf-edu"]
+	path = subs/crf-edu
+	url = https://github.com/d10genes/crf-edu.git
+[submodule "subs/boy_who_lived"]
+	path = subs/boy_who_lived
+	url = https://github.com/d10genes/boy_who_lived.git
