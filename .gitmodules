@@ -10,3 +10,6 @@
 [submodule "subs/boy_who_lived"]
 	path = subs/boy_who_lived
 	url = https://github.com/d10genes/boy_who_lived.git
+[submodule "subs/word2vec"]
+	path = subs/word2vec
+	url = https://github.com/d10genes/word2vec.git
