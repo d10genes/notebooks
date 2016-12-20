@@ -13,3 +13,6 @@
 [submodule "subs/word2vec"]
 	path = subs/word2vec
 	url = https://github.com/d10genes/word2vec.git
+[submodule "subs/numba-lookup"]
+	path = subs/numba-lookup
+	url = https://github.com/d10genes/numba-lookup.git
